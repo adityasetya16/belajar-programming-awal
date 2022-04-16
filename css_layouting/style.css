@@ -1,0 +1,22 @@
+/* Belajar membuat Div untuk keseluruhan */
+.header {
+    background-color: pink;
+}
+
+.main {
+    background-color: green;
+}
+/* Belajar membuat span di dalam kalimat */
+.copyright {
+    color: blue;
+}
+
+.copyright span {
+    color:brown;
+}
+
+.dimensi h2 {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}

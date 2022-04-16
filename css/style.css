@@ -1,0 +1,43 @@
+/* Belajar font styling */
+h2 {
+    color : blue;
+    font-family: arial;
+    font-size: 25px;
+    font-weight:bolder;
+    font-variant: small-caps;
+}
+
+ol {
+    color: red;
+    font-family: Georgia;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 50px;
+}
+
+p {
+    color:green;
+}
+
+/* Belajar text styling */
+h2 {
+    /* color:#000000 ini untuk warna dalam hexadecimal */
+    /* color:rgb (115,80,212) termasuk dalam warna rgb */
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent:50px;
+
+}
+
+/* Belajar Background */
+
+body {
+background-color: lightcoral;
+background-image: url(../html/kalender.png);
+background-repeat: no-repeat;
+background-position:top right;
+
+}

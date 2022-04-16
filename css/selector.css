@@ -1,0 +1,45 @@
+/* Isian dari Selector.html */
+body {
+    background-color: lightcoral;
+    font-family: Times New Roman;
+
+}
+
+/* termasuk elemen html menggunakan koma jika sama semua */
+h2, p {
+    color:greenyellow;
+}
+
+/* termasuk selector lebih spesifik menggunakan spasi */
+ol li a {
+    color:orange;
+}
+
+ul li a {
+    color:pink;
+}
+
+/* mengganti warna paragraf */
+
+/* khusus untuk id namanya ada # */
+#p1 { 
+    color:aquamarine;
+    background-color: aliceblue;
+}
+
+/* khusus untuk class ada . diawal */
+.p2 {
+    color:brown;
+}
+.p3 {
+    color: violet;
+    background-color: black;
+}
+
+.p4 {
+    background-color:aqua ;
+}
+
+.p5 {
+    background-color: antiquewhite;
+}
